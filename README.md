@@ -13,7 +13,8 @@ To write a python program to find the inverse of a matrix
 ## Program:
 ## Output:
 
-<img width="1920" height="1016" alt="Screenshot 2026-05-28 204205" src="https://github.com/user-attachments/assets/c89af9fe-f6e5-4ce9-b5e1-abdbc693176d" />
+<img width="1251" height="749" alt="Screenshot 2026-05-28 205948" src="https://github.com/user-attachments/assets/de2c9e8c-76a7-44b7-8e27-0b316f3813dc" />
+
 
 
 ## Result:
